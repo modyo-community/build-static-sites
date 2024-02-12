@@ -1,4 +1,4 @@
-# Convert a static Site
+# Convert a static site
 Learn how to convert an HTML-based site to the Modyo architecture.
 
 ## Prerequisites

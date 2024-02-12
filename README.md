@@ -1,12 +1,14 @@
-# Adaptación de un sitio estático
-Aprende a convertir un sitio basado en HTML a la arquitectura de Modyo.
+# Convert a static Site
+Learn how to convert an HTML-based site to the Modyo architecture.
 
-## Pre requisitos
+## Prerequisites
 
-Antes de comenzar necesitarás:
+Before getting started, you will need:
 
-- **Un editor de código.** Puede ser cualquiera de tu elección, en el video utilizamos [Visual Studio Code](https://code.visualstudio.com/)
-- **Una cuenta de Modyo.** Se recomienda usar la cuenta de tu organización, pero si no tienes acceso aún, puedes utilizar [una cuenta de prueba](https://platform.modyo.cloud/try)
-- **Un navegador moderno y actualizado.** En este curso usamos [Google Chrome](https://www.google.com/chrome/) en su más reciente versión
-- **Acceso a internet.** El editor de Modyo trabaja en la nube y durante el ejercicio utilizamos archivos hospedados en servidores externos, asegurate de tener una conexion estable y permanente a internet. En caso que utilizes Proxy/Firewall verifica que tengas acceso a los sitios web utilizados
+- **A code editor.** It can be any of your choice; in the video, we use [Visual Studio Code](https://code.visualstudio.com/).
 
+- **A Modyo account.** It is recommended to use your organization's account, but if you don't have access yet, you can use [a trial account](https://platform.modyo.cloud/try).
+
+- **A modern and updated browser.** In this course, we use [Google Chrome](https://www.google.com/chrome/) in its latest version.
+
+- **Internet access.** The Modyo editor works in the cloud, and during the exercise, we use files hosted on external servers. Make sure you have a stable and permanent internet connection. If you use a Proxy/Firewall, verify that you have access to the websites used.
